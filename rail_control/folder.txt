@@ -1,0 +1,14 @@
+PROG
+ROOT
+	FILE	MAIN.LD
+	FILE	SBR_001.LD
+	FILE	INT_001.LD
+FB
+ROOT
+	FILE	两轴同步.FB
+	FILE	外部急停.FB
+	FILE	轴监控数据处理.FB
+	FILE	轴控制数据处理.FB
+	FILE	轴运动控制.FB
+FC
+ROOT
