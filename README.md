@@ -1,7 +1,7 @@
 # Rail_control_PLC Project Instructions
 基于汇川的PLC硬件(easy521系列)以及对应梯形图程序开发软件(AutoShop)的多伺服电机运动控制程序。
 
-此工程目前运用于Ag小组项目中的平面滑轨运动场景，X轴两个电机具有同步功能，Y轴一个电机。
+此工程目前运用于AgRobot小组项目中的平面滑轨运动场景，X轴两个电机具有同步功能，Y轴一个电机。
 
 [汇川官网](https://www.inovance.com/)
 
